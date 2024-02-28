@@ -1,0 +1,2 @@
+# Exploring-COVID-19-Trends-Data-Analysis-ML-Algorithms-and-Web-Deployment
+Exploring COVID-19 symptoms, our project employs ensemble machine learning models on Kaggle data, predicting presence via user-input symptoms. Integrated with Streamlit, the web app allows easy data entry or CSV upload for a seamless experience. Comprehensive analysis, ML, and web functionality converge in this insightful project.
